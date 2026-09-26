@@ -1,11 +1,12 @@
-# 🌐 Zion AI App Network
+# Zion App Network — Interlinks for cloud-architect-diagram-builder
 
-Part of the **Zion AI App Network** — 770+ interlinked AI apps, tools and playbooks by [Zion Tech Group](https://ziontechgroup.com).
+Cloud Architect Diagram Builder is part of the [Zion App Network](https://ziontechgroup.com/zion-app-network/) by [Zion Tech Group](https://ziontechgroup.com) — 700+ interlinked AI apps.
 
-- 🏠 Home: https://ziontechgroup.com
-- 🗂️ Directory: https://ziontechgroup.com/zion-app-network/
-- 🐙 Hub: https://github.com/Zion-support/zion-app-network
-- 🌐 Live app: https://ziontechgroup.com/cloud-architect-diagram-builder/
-- 🔗 Related: [AI Architecture Design](https://ziontechgroup.com/ai-architecture-design/) · [Tech Stack Recommender](https://ziontechgroup.com/tech-stack-recommender/) · [Discovery](https://ziontechgroup.com/discovery/)
+- Live app: https://ziontechgroup.com/cloud-architect-diagram-builder/
+- Hub repo: https://github.com/Zion-support/zion-app-network · Master interlink map: https://github.com/Zion-support/zion-app-network/blob/main/INTERLINKS.md
+- Batch 50 spotlight (FinOps & Cloud Cost Optimization): https://github.com/Zion-support/zion-app-network/blob/main/SPOTLIGHT-2026-09-26-BATCH50.md · Showcase: https://ziontechgroup.com/zion-app-network/app-network-batch50-sept26.html
 
-© 2026 Zion Tech Group.
+## Related FinOps apps
+[AI FinOps Suite](https://ziontechgroup.com/ai-finops-suite/) · [FinOps Spend Analyzer](https://ziontechgroup.com/finops-spend-analyzer/) · [FinOps Autopilot](https://ziontechgroup.com/finops-autopilot/) · [Cloud Cost Estimator](https://ziontechgroup.com/cloud-cost-estimator/) · [Zion AI ROI Calculator](https://ziontechgroup.com/zion-ai-roi-calculator/) · [AI Cloud Optimizer](https://ziontechgroup.com/ai-cloud-optimizer/) · [AI Compute Optimizer](https://ziontechgroup.com/ai-compute-optimizer/)
+
+© 2026 Zion Tech Group · https://ziontechgroup.com
